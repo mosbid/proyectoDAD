@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+.formEstilo {
+	max-width: 50 px;
+}
+.divEstilo {
+	border-radius: 20 px;
+	width: 50 px;
+	height: 100 px;
+	background-color: white;
+	
+}
+
+body{
+	background-color: lightgrey;
+}
+
